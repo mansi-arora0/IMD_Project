@@ -15,7 +15,7 @@ The goal is to understand historical wind patterns, rainfall variability, and cl
 
 ## 📂 Dataset
 - **Wind Data:** Somali Jet winds at 850 hPa (NetCDF format).  
-- **Rainfall Data:** IMD gridded rainfall dataset (1961–2022).  
+- **Rainfall Data:** IMD gridded rainfall dataset (1962–2023).  
 - **Climate Indices:** ENSO and IOD phases (external datasets).  
 
 ## 🛠️ Tech Stack
